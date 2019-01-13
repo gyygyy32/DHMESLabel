@@ -1,0 +1,32 @@
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Release\MySql.Data.dll
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Release\MESLabel.LabelPrint.resources
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Release\MESLabel.MainForm.resources
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Release\MESLabel.PrintConfig.resources
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Release\MESLabel.Properties.Resources.resources
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Release\MESLabel.csproj.GenerateResource.Cache
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Release\YTMESLabel.exe.manifest
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Release\YTMESLabel.application
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Release\YTMESLabel.exe
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Release\YTMESLabel.pdb
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Release\YTMESLabel.exe.manifest
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Release\YTMESLabel.application
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Release\YTMESLabel.exe
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Release\YTMESLabel.pdb
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Release\MESLabel.LabelPrint.resources
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Release\MESLabel.MainForm.resources
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Release\MESLabel.PrintConfig.resources
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Release\MESLabel.Properties.Resources.resources
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Release\MESLabel.csproj.GenerateResource.cache
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Release\YTMESLabel.exe
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Release\YTMESLabel.pdb
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Release\YTMESLabel.exe.manifest
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Release\YTMESLabel.application
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Release\YTMESLabel.exe
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Release\YTMESLabel.pdb
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Release\MySql.Data.dll
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Release\YTMESLabel.exe.manifest
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Release\YTMESLabel.application
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Release\YTMESLabel.exe.config
+C:\01 Code\02 HL\MESLabel\DH\YTMESLabel\MESLabel\bin\Release\YTMESLabel.exe.config
+C:\01 Code\02 HL\MESLabel\DH\YTMESLabel\MESLabel\obj\x86\Release\YTMESLabel.exe
+C:\01 Code\02 HL\MESLabel\DH\YTMESLabel\MESLabel\obj\x86\Release\YTMESLabel.pdb

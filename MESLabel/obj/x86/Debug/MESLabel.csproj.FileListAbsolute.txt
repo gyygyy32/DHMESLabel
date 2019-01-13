@@ -1,0 +1,46 @@
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\bin\Debug\MESLabel.exe
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\bin\Debug\MESLabel.pdb
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\bin\Debug\MySql.Data.dll
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.csprojResolveAssemblyReference.cache
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.Properties.Resources.resources
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.csproj.GenerateResource.Cache
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.exe
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.pdb
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.LabelPrint.resources
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.MainForm.resources
+D:\03 Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.PrintConfig.resources
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.pdb
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Debug\MESLabel.pdb
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Debug\MySql.Data.dll
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.LabelPrint.resources
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.MainForm.resources
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.PrintConfig.resources
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.Properties.Resources.resources
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.csproj.GenerateResource.Cache
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.csprojResolveAssemblyReference.cache
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Debug\MESLabel.exe.manifest
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Debug\MESLabel.application
+D:\Code\C#\MESLabel\MESLabel\MESLabel\bin\Debug\MESLabel.exe
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.exe.manifest
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.application
+D:\Code\C#\MESLabel\MESLabel\MESLabel\obj\x86\Debug\MESLabel.exe
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Debug\YTMESLabel.exe.manifest
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Debug\YTMESLabel.application
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Debug\YTMESLabel.exe
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Debug\YTMESLabel.pdb
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Debug\MySql.Data.dll
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Debug\System.Data.OracleClient.dll
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Debug\zh-CHS\System.Data.OracleClient.resources.dll
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\MESLabel.LabelPrint.resources
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\MESLabel.MainForm.resources
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\MESLabel.PrintConfig.resources
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\MESLabel.Properties.Resources.resources
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\MESLabel.csproj.GenerateResource.cache
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\MESLabel.csproj.CoreCompileInputs.cache
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\YTMESLabel.exe.manifest
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\YTMESLabel.application
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\MESLabel.csproj.CopyComplete
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\YTMESLabel.exe
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\YTMESLabel.pdb
+C:\01 Code\02 HL\YTMESLabel\MESLabel\bin\Debug\YTMESLabel.exe.config
+C:\01 Code\02 HL\YTMESLabel\MESLabel\obj\x86\Debug\MESLabel.csprojResolveAssemblyReference.cache
